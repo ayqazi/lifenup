@@ -130,3 +130,10 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Witness 1: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Witness 2: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+# Clarifications Required
+
+1. **Work-related items exception**
+   - Clarify whether “purchases specifically made for work” includes: laptop(s), monitors, desk chair, phone, charging accessories, and documents.

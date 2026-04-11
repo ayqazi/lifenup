@@ -101,3 +101,10 @@ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Aisha Iftikhar
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+# Clarifications Required
+
+1. **Interim contact pattern (optional)**
+   - You asked for high-level only. If you want minimal-operational wording, define a default “baseline” (even if flexible) for school weeks/holidays.
