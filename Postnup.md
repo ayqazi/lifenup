@@ -30,7 +30,7 @@ and
 
 5. The Parties intend to complete the purchase of a replacement family home at **155 Jamie Marcus Way, Oadby, Leicester, LE2 4WB** on **29 June 2026** (the **Replacement Home**), for a purchase price of **£451,950**.
 
-6. The Parties intend that this Agreement shall apply only from the date they move into the Replacement Home (the **Move Date**). For the avoidance of doubt, this Agreement is not intended to regulate any period before the Move Date.
+6. The Parties intend that this Agreement shall apply only from the completion date (the date on which the sale of the Current Home completes and the purchase of the Replacement Home completes, when the Parties move out of the Current Home and into the Replacement Home) (the **Move Date**). For the avoidance of doubt, this Agreement is not intended to regulate any period before the Move Date.
 
 7. The Parties wish to record their mutual wishes and intentions regarding financial arrangements in the event of separation or permanent breakdown of the marriage after the Move Date, with the aim of reducing uncertainty, dispute, and litigation.
 
@@ -96,7 +96,7 @@ and
 
 **Replacement Home** means 155 Jamie Marcus Way, Oadby, Leicester, LE2 4WB.
 
-**Move Date** means the date the Parties and children move into the Replacement Home.
+**Move Date** means the completion date of the sale of the Current Home and the purchase of the Replacement Home, when the Parties move out of the Current Home and into the Replacement Home.
 
 **Permanent Breakdown** means separation followed by divorce proceedings, judicial separation, or such other clear and sustained breakdown of the marriage as makes reconciliation no longer realistic.
 
@@ -108,7 +108,7 @@ and
 
 14. The following shall be treated as **Asfand’s Separate Property**:
 - his ISA, presently valued at approximately **£5,652**
-- the sum of **£20,000** to be retained by him as ring-fenced personal savings (the **Ring-Fenced Savings**)
+- the sum of **£20,000** to be held after completion in a separate account as ring-fenced personal savings (the **Ring-Fenced Savings**)
 - any property expressly agreed in writing after the date of this Agreement to be his separate property
 15. The following shall be treated as **Aisha’s Separate Property**:
 - her car, presently valued at approximately **£4,000**
@@ -127,41 +127,44 @@ and
 
 19. The Parties intend to purchase the Replacement Home at **155 Jamie Marcus Way, Oadby, Leicester, LE2 4WB**, with a purchase price of **£451,950**, completing on **29 June 2026**.
 
-19A. The Parties intend that the Replacement Home will be owned in their joint names. The Parties do not intend to enter into a separate declaration of trust unless they later agree in writing and take legal advice.
+19A. The Parties intend that the Replacement Home will be owned in their joint names and that, unless later agreed in writing, the beneficial ownership is joint. The Parties do not intend to enter into a separate declaration of trust unless they later agree in writing and take legal advice.
 
-19B. The Parties acknowledge that the intended lender is **Leeds Building Society**, and that the mortgage amount/term are to be confirmed at completion. The Parties further record that the deposit is intended to be funded **100% from the proceeds of the previous house sale**.
+19B. The Parties acknowledge that the intended lender is **Leeds Building Society**, under mortgage account number **73834929** dated **24 February 2026**, and that the mortgage is for **£373,450** over **24 years** on a **repayment (capital and interest)** basis. The mortgage is split into two parts: **£262,349** fixed at **1.79%** until **28 February 2027** and **£111,101** fixed at **4.30%** until **30 April 2028**, with the Society's Standard Variable Rate currently **7.74%** applying thereafter. The Parties record the current total monthly payment as **£1,737.29** until **28 February 2027**, **£2,578.53** from **1 March 2027** to **30 April 2028**, and **£2,789.80** from **1 May 2028** onwards. The deposit is intended to be funded from the proceeds of the previous house sale.
 
-19C. A mortgage offer is intended to be attached to this Agreement as supporting information.
+19C. A copy of the Leeds Building Society mortgage offer dated 24 February 2026 (account 73834929) is intended to be attached to this Agreement as supporting information.
 
 20. In the event of Permanent Breakdown, the Parties’ main present housing intention is:
 
- - the children are to remain primarily living with **Aisha** in the family home, subject always to safety, welfare, affordability, and any court order
- - **Asfand may remain in the home for up to 6 months after separation**, unless safety concerns or serious conflict require earlier departure
- - the longer-term goal is for the Replacement Home mortgage (and title, if advised/required) to be transferred into **Aisha’s sole name**, when feasible
+  - the children are to remain primarily living with **Aisha** in the family home, subject always to safety, welfare, affordability, and any court order
+  - **Asfand may remain in the home for up to 6 months after he declares that he no longer seeks reconciliation, or until he has secured and moved into his own place, whichever comes first**, unless safety concerns or serious conflict require earlier departure
+  - if Asfand starts any new relationship, he must move out immediately
+  - the longer-term goal is for the Replacement Home mortgage (and title, if advised/required) to be transferred into **Aisha’s sole name**, when feasible
 21. The Parties acknowledge that feasibility of transfer or remortgage will depend on lender criteria, affordability, and legal advice.
 
 21A. The Parties agree that the joint ownership of the Replacement Home will continue until the home is sold or the mortgage is transferred to Aisha (and any related transfer of legal title is completed if advised/required).
 
-22. Until remortgage, transfer, or sale, Asfand’s present intended support obligation is to pay **£3,500 per calendar month** (the **Monthly Household Contribution**) towards household costs.
+22. Until remortgage, transfer, or sale, Asfand’s present intended support obligation is to pay **£3,500 per calendar month** (the **Monthly Household Contribution**) towards household costs, but only once he has officially moved into his own place.
 
-23. The Monthly Household Contribution is a hard monthly amount. Any change to it must be negotiated and agreed by both Parties in writing.
+23. Until Asfand has officially moved into his own place, he remains in charge of household finances and the Monthly Household Contribution does not start.
 
-23A. Reviews of the Monthly Household Contribution are flexible and may occur at any time if both Parties agree to have review discussions.
+23A. The Monthly Household Contribution is a hard monthly amount. Any change to it must be negotiated and agreed by both Parties in writing.
 
-23B. The Monthly Household Contribution shall be paid by bank transfer to Aisha on the **last Thursday of every month**, starting when (a) separation is agreed upon by both Parties and (b) Asfand has officially moved out of the home.
+23B. Reviews of the Monthly Household Contribution are flexible and may occur at any time if both Parties agree to have review discussions.
 
-23C. If Asfand remains in the home after separation for any period, the Parties intend to agree (in writing) interim mechanics for how household costs are met during that period.
+23C. The Monthly Household Contribution shall be paid by bank transfer to Aisha on the **last Thursday of every month**, starting when (a) separation is agreed upon by both Parties and (b) Asfand has officially moved into his own place.
 
-23D. Late payments are intended to be treated as serious. Aisha may pursue available legal remedies.
+23D. If Asfand remains in the home after separation for any period before he has officially moved into his own place, the Parties intend that he continues to meet household costs during that period.
 
-23E. For the purposes of this Agreement, “household costs” includes (non-exhaustively): mortgage payments (if any), buildings/contents insurance, council tax, gas/electric, water, broadband, TV licence, essential repairs/maintenance, groceries, children’s ordinary school-related costs, children’s ordinary clothing, reasonable local transport costs for the children, and ordinary child health/medicine costs.
+23E. Late payments are intended to be treated as serious. Aisha will first give notice and a reasonable grace period before pursuing available legal remedies.
 
-24. Aisha intends to make repeated reasonable attempts to remortgage into her sole name when feasible.
+23F. For the purposes of this Agreement, “household costs” includes (non-exhaustively): mortgage payments (if any), buildings/contents insurance, council tax, gas/electric, water, broadband, TV licence, essential repairs/maintenance, groceries, children’s ordinary school-related costs, children’s ordinary clothing, reasonable local transport costs for the children, and ordinary child health/medicine costs.
+
+24. Aisha intends to make repeated reasonable attempts to remortgage into her sole name when a lender affordability assessment permits, whether by full remortgage or by any mid-term transfer/removal of Asfand from an existing mortgage, and the Parties intend to cooperate with that process when feasible.
 
 25. The Parties intend that the remortgage/occupation position should be reviewed if Aisha:
 
 - remarries, or
-- cohabits with a partner for a sustained period presently intended to mean approximately **6 months**, though the exact wording remains to be finalised
+- cohabits with a partner for a sustained period, with the occupation position otherwise governed by the 6-month grace period and immediate move-out trigger stated above
 
 ## INCOME DROP / AFFORDABILITY REVIEW
 
@@ -172,12 +175,12 @@ and
 - to act in good faith
 - to review income, expenditure, mortgage obligations, and children’s needs
 - to consider whether the support figure should be varied temporarily or permanently
-- to consider sale only if the home becomes genuinely unaffordable after a reasonable cure period
-28. The Parties do **not** presently intend a fixed sale date, and instead intend, where reasonably possible, to avoid sale while the home is needed for the children.
+- to consider sale only if the home becomes genuinely unaffordable after a reasonable cure period, including any reasonable attempt to negotiate parental contributions
+28. The Parties do **not** presently intend a fixed sale date, and instead intend, where reasonably possible, to avoid sale while the home is needed for the children. If the home remains unaffordable even after reasonable attempts to vary contributions and negotiate parental support, sale may be necessary.
 
 29. If a sale becomes necessary, the Parties intend the split of net sale proceeds to be **negotiable**, with a **50% / 50%** fallback if no agreement is reached.
 
-29A. If Aisha demonstrates financial independence and is ready to have the Replacement Home transferred/remortgaged into her sole name, the Parties agree this triggers a negotiation of the Monthly Household Contribution, with intent to reduce it.
+29A. If Aisha demonstrates financial independence and is ready to have the Replacement Home transferred/remortgaged into her sole name, the Parties agree this triggers a negotiation of the Monthly Household Contribution, with the existing **£3,500** figure continuing until a new figure is agreed in writing.
 
 ## CHILDREN
 
@@ -284,4 +287,4 @@ Occupation: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Purchase price: £451,950
 - Intended lender: Leeds Building Society
 - Deposit source: 100% carried over from previous house sale
-- Mortgage amount/term: TBC at completion
+- Mortgage amount/term: £373,450 over 24 years on a repayment (capital and interest) basis

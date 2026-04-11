@@ -50,7 +50,7 @@ This inventory records the Parties’ present understanding of the ownership and
 
 1. ISA in Asfand’s sole name, approximately **£5,652**.
 2. Cash in Asfand’s possession/control, approximately **£1,000**, subject to ordinary fluctuation.
-3. The intended retained sum of **£20,000** from sale proceeds on the move to the next family home, described by the Parties as Asfand’s personal savings.
+3. The intended retained sum of **£20,000** to be held after completion in a separate account, described by the Parties as Asfand’s personal savings.
    This sum is intended to be ring-fenced absolutely as Asfand’s Separate Property.
 4. Personal clothing, footwear, toiletries, correspondence, identification documents, academic/professional records, and personal electronic accounts belonging solely to Asfand.
 5. Any items specifically acquired solely by Asfand after the date of this inventory and clearly treated by both Parties as his alone.
@@ -78,7 +78,7 @@ Unless otherwise agreed in writing, the following are presently treated as joint
 5. Shared family electronics and household-use devices, if not specifically allocated below.
 6. Ordinary family bedding, towels, and household linens acquired for joint household use.
 7. Children’s ordinary furniture, where not clearly gifted to one child personally.
-8. The Replacement Home at 155 Jamie Marcus Way, Oadby, Leicester, LE2 4WB, subject always to the title position and any later written variations.
+8. The Replacement Home at 155 Jamie Marcus Way, Oadby, Leicester, LE2 4WB, subject always to the intended joint ownership position and any later written variations.
 
 ## 4. Children’s property
 
