@@ -64,12 +64,10 @@ This file lists open points that still need clear decisions/wording. It intentio
 
 1. **Read all three documents critically for factual accuracy.**
 2. **Fill in the missing sections**, especially:
-   - children’s full names if wanted
-   - high-value and sentimental property list
-   - detailed household contents
    - exact support/payment mechanics
    - exact cohabitation wording
    - sale/equity split if sale becomes necessary
+   - any extra high-value or sentimental property detail you want to capture
 3. **Update after the 2026 house move.**
 4. **Make wills.**
 5. **Get solicitor review**, ideally family-law solicitor review of the postnup and any housing provisions.
