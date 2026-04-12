@@ -16,7 +16,6 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{xcolor}
-\usepackage{ifthen}
 
 \hypersetup{
     colorlinks=true,
@@ -35,11 +34,6 @@
 \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.6em}{}
 
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
-
-% Toggle optional schedules:
-\newif\ifincludelegalcertificates
-\includelegalcertificatestrue
-% Set to \includelegalcertificatesfalse to exclude adviser certificates and statements.
 
 \newcommand{\PartyOne}{Asfand Yar Qazi}
 \newcommand{\PartyTwo}{Aisha Iftikhar}
@@ -456,8 +450,7 @@ Date & \\[0.8cm]
 \begin{itemize}[leftmargin=1.8em]
     \item None declared at present
 \end{itemize}
-
-\ifincludelegalcertificates
+\newpage
 \newpage
 \section*{Schedule 3 --- Certificate of Independent Specialist Legal Adviser for Party 1}
 
@@ -565,6 +558,5 @@ Signature & \\[1cm]
 Name & \PartyTwo \\[0.6cm]
 \hline
 \end{tabularx}
-\fi
 
 \end{document}
