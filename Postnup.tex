@@ -1,10 +1,16 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[10pt,a4paper]{article}
 
 \usepackage[a4paper,margin=2.2cm]{geometry}
+
+% Font encoding / symbols (fixes £ rendering in PDFLaTeX)
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[scaled]{helvet}
-\renewcommand{\familydefault}{\sfdefault}
+\usepackage{textcomp} % provides \textsterling and other TS1 symbols
+
+% Very standard, boring serif font
+\usepackage{newtxtext}
+\usepackage{newtxmath}
+
 \usepackage{microtype}
 \usepackage{setspace}
 \usepackage{parskip}
@@ -26,15 +32,25 @@
     pdfauthor={Working Draft for Solicitor Review}
 }
 
-\setstretch{1.12}
+% More "legal doc" feel: smaller type, tighter leading
+\setstretch{1.05}
+
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
 
-\titleformat{\section}{\large\bfseries}{\thesection.}{0.6em}{}
+% Conservative headings
+\titleformat{\section}{\normalsize\bfseries}{\thesection.}{0.6em}{}
 \titleformat{\subsection}{\normalsize\bfseries}{\thesubsection.}{0.6em}{}
 
+% Lists: tighter spacing, more formal
+\setlist[itemize]{leftmargin=1.8em, itemsep=0.2em, topsep=0.4em}
+\setlist[enumerate]{leftmargin=1.8em, itemsep=0.25em, topsep=0.4em}
+
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+% Parties / details
 \newcommand{\PartyOne}{Asfand Yar Qazi}
 \newcommand{\PartyTwo}{Aisha Iftikhar}
 \newcommand{\CurrentHome}{33 Craighill Road, Leicester LE2 3FD}
@@ -45,18 +61,18 @@
 \begin{document}
 
 \begin{center}
-    {\LARGE\bfseries SHORT-FORM POSTNUPTIAL AGREEMENT}\\[0.5em]
-    {\large Working Draft for Solicitor Review}
+    {\Large\bfseries SHORT-FORM POSTNUPTIAL AGREEMENT}\\[0.35em]
+    {\normalsize Working Draft for Solicitor Review}
 \end{center}
 
-\vspace{0.8em}
+\vspace{0.6em}
 
 \noindent\textbf{Important note:} This is a practical working draft intended for solicitor review. It is designed to record the Parties' current wishes and intentions and to carry as much weight as the law of England and Wales may permit. For greater legal weight, it should be reviewed by a family solicitor and each Party should obtain independent legal advice before signing.
 
-\vspace{1em}
+\vspace{0.9em}
 
 \begin{center}
-    {\Large\bfseries POSTNUPTIAL AGREEMENT}
+    {\large\bfseries POSTNUPTIAL AGREEMENT}
 \end{center}
 
 \noindent\textbf{THIS AGREEMENT IS MADE AS A DEED} on \rule{7cm}{0.4pt}
@@ -79,8 +95,8 @@
         \item \textbf{Aynie Qazi}, born \textbf{26/05/2015}
         \item \textbf{Ayoub Qazi}, born \textbf{10/07/2019}
     \end{itemize}
-    \item The Parties currently own the family home at \textbf{\CurrentHome}, with an approximate value of \textbf{£420,000} and an approximate mortgage of \textbf{£290,000}, in joint names.
-    \item The Parties intend to complete the purchase of a replacement family home at \textbf{\ReplacementHome} on or about \textbf{29 June 2026} (the \textbf{Replacement Home}) for a purchase price of \textbf{£451,950}.
+    \item The Parties currently own the family home at \textbf{\CurrentHome}, with an approximate value of \textbf{\textsterling 420,000} and an approximate mortgage of \textbf{\textsterling 290,000}, in joint names.
+    \item The Parties intend to complete the purchase of a replacement family home at \textbf{\ReplacementHome} on or about \textbf{29 June 2026} (the \textbf{Replacement Home}) for a purchase price of \textbf{\textsterling 451,950}.
     \item The Parties intend that this Agreement shall regulate their financial arrangements only from the completion date of the move from the Current Home to the Replacement Home, namely the date on which the sale of the Current Home completes and the purchase of the Replacement Home completes and the Parties move from the Current Home into the Replacement Home (the \textbf{Move Date}). For the avoidance of doubt, this Agreement is not intended to regulate any period before the Move Date.
     \item The Parties wish to record their mutual wishes and intentions regarding financial arrangements in the event of separation or permanent breakdown of the marriage after the Move Date, with the aim of reducing uncertainty, dispute and litigation.
     \item The Parties acknowledge that the welfare and needs of the children remain important and that the court retains jurisdiction in relation to children and financial matters as required by law.
@@ -93,16 +109,15 @@
 \begin{enumerate}[label=\arabic*., start=11, leftmargin=1.8em]
     \item The Parties confirm that, to the best of their present knowledge, each has disclosed to the other sufficient information concerning his or her assets, liabilities, income and relevant financial circumstances to enable the fairness of this Agreement to be assessed.
     \item The Parties' current headline financial circumstances are as follows.
-
 \end{enumerate}
 
 \subsection*{Party 1 --- \PartyOne}
 
 \begin{itemize}[leftmargin=1.8em]
     \item Occupation: software engineer
-    \item Gross income: approximately \textbf{£90,000 per annum}
-    \item Cash: approximately \textbf{£1,000}
-    \item ISA: approximately \textbf{£5,652}
+    \item Gross income: approximately \textbf{\textsterling 90,000 per annum}
+    \item Cash: approximately \textbf{\textsterling 1,000}
+    \item ISA: approximately \textbf{\textsterling 5,652}
     \item Pension: none declared
     \item Business interests: none declared
     \item Debts/liabilities: none declared
@@ -112,10 +127,10 @@
 
 \begin{itemize}[leftmargin=1.8em]
     \item Occupation: self-employed art tutor
-    \item Income: approximately \textbf{£300 per calendar month}
-    \item Cash: approximately \textbf{£300}
-    \item Car: approximately \textbf{£4,000}
-    \item Gold: approximately \textbf{£500}
+    \item Income: approximately \textbf{\textsterling 300 per calendar month}
+    \item Cash: approximately \textbf{\textsterling 300}
+    \item Car: approximately \textbf{\textsterling 4,000}
+    \item Gold: approximately \textbf{\textsterling 500}
     \item Pension: none declared
     \item Business interests: none declared
     \item Debts/liabilities: none declared
@@ -124,9 +139,9 @@
 \subsection*{Children's assets / costs}
 
 \begin{itemize}[leftmargin=1.8em]
-    \item Daughter JISA: approximately \textbf{£2,174}
-    \item Son JISA: approximately \textbf{£2,000}
-    \item Child health-related medicines/treatments: approximately \textbf{£200 per calendar month} on average
+    \item Daughter JISA: approximately \textbf{\textsterling 2,174}
+    \item Son JISA: approximately \textbf{\textsterling 2,000}
+    \item Child health-related medicines/treatments: approximately \textbf{\textsterling 200 per calendar month} on average
 \end{itemize}
 
 \begin{enumerate}[label=\arabic*., start=13, leftmargin=1.8em]
@@ -172,7 +187,7 @@ Joint Property & property not expressly identified as Separate Property. \\
 Written Notice & any written communication capable of being retained and produced, including a signed letter, email, text message or messaging-app communication. \\
 Transition Period & the period of three months beginning on the date on which either Party gives Written Notice to the other that the marriage is over. \\
 Moved Out Permanently & Party 1 has begun living at another residence on a settled basis as his main home; temporary returns for childcare, practical arrangements, emergencies or short visits shall not of themselves prevent this condition being satisfied. \\
-Monthly Household Contribution & the monthly payment presently fixed at \textbf{£3,500} pursuant to this Agreement, subject to review in accordance with this Agreement. \\
+Monthly Household Contribution & the monthly payment presently fixed at \textbf{\textsterling 3,500} pursuant to this Agreement, subject to review in accordance with this Agreement. \\
 Cohabitation & Party 2 living in the family home with a partner on a settled basis, whether married to that partner or not. \\
 \bottomrule
 \end{longtable}
@@ -182,15 +197,15 @@ Cohabitation & Party 2 living in the family home with a partner on a settled bas
 \begin{enumerate}[label=\arabic*., start=17, leftmargin=1.8em]
     \item The following shall be treated as \textbf{Party 1's Separate Property}:
     \begin{itemize}[leftmargin=1.8em]
-        \item his ISA, presently valued at approximately \textbf{£5,652};
-        \item the sum of \textbf{£20,000} to be held after completion in a separate account as ring-fenced personal savings (the \textbf{Ring-Fenced Savings});
+        \item his ISA, presently valued at approximately \textbf{\textsterling 5,652};
+        \item the sum of \textbf{\textsterling 20,000} to be held after completion in a separate account as ring-fenced personal savings (the \textbf{Ring-Fenced Savings});
         \item any property expressly agreed in writing after the date of this Agreement to be his Separate Property;
         \item external inheritances and gifts received by him, whether before or after this Agreement, unless clearly converted into Joint Property by written agreement.
     \end{itemize}
     \item The following shall be treated as \textbf{Party 2's Separate Property}:
     \begin{itemize}[leftmargin=1.8em]
-        \item her car, presently valued at approximately \textbf{£4,000};
-        \item her gold, presently valued at approximately \textbf{£500};
+        \item her car, presently valued at approximately \textbf{\textsterling 4,000};
+        \item her gold, presently valued at approximately \textbf{\textsterling 500};
         \item external inheritances and gifts received by her, whether before or after this Agreement, which are intended to be ring-fenced to her and/or for the children and not for Party 1;
         \item any property expressly agreed in writing after the date of this Agreement to be her Separate Property.
     \end{itemize}
@@ -235,7 +250,7 @@ Cohabitation & Party 2 living in the family home with a partner on a settled bas
     \end{itemize}
     \item Until the Monthly Household Contribution becomes payable, Party 1 shall remain responsible for maintaining the household finances substantially as at present, unless otherwise agreed in writing.
     \item If Party 1 remains physically in the home after Written Notice for any part of the Transition Period, the Parties intend that he shall continue meeting the household costs during that period.
-    \item The Monthly Household Contribution is presently fixed at \textbf{£3,500 per calendar month}.
+    \item The Monthly Household Contribution is presently fixed at \textbf{\textsterling 3,500 per calendar month}.
     \item The Monthly Household Contribution shall be paid by bank transfer to Party 2 on the \textbf{last Thursday of each month}.
     \item If the due date falls on a bank holiday or payment cannot reasonably be made on that date due to banking-system disruption, payment shall be made on the next working day.
     \item For the purposes of this Agreement, household costs include, without limitation:
@@ -265,7 +280,7 @@ Cohabitation & Party 2 living in the family home with a partner on a settled bas
     \item Until a new figure is agreed in writing by both Parties, or ordered by a court, the existing Monthly Household Contribution shall continue to apply.
     \item A review shall in particular be triggered by any of the following:
     \begin{itemize}[leftmargin=1.8em]
-        \item a reduction of Party 1's gross income by 25\% or more from the current baseline of \textbf{£90,000 per annum} lasting for at least three months;
+        \item a reduction of Party 1's gross income by 25\% or more from the current baseline of \textbf{\textsterling 90,000 per annum} lasting for at least three months;
         \item loss of Party 1's employment or equivalent loss of earnings;
         \item Party 2 becoming realistically able to remortgage or take transfer of the Replacement Home into her sole name;
         \item Party 2's remarriage or Cohabitation;
@@ -371,23 +386,23 @@ Cohabitation & Party 2 living in the family home with a partner on a settled bas
 
 \noindent\textbf{IN WITNESS OF WHICH} the Parties have signed this Agreement as a deed on the day and year first above written.
 
-\vspace{1.2em}
+\vspace{1.0em}
 
 \begin{tabularx}{\textwidth}{|Y|Y|}
 \hline
 \multicolumn{2}{|l|}{\textbf{Executed as a deed by Party 1}} \\
 \hline
-Signature of Party 1 & \\[1.2cm]
+Signature of Party 1 & \\[1.0cm]
 \hline
 Name & \PartyOne \\[0.4cm]
 \hline
 In the presence of witness: & \\
 \hline
-Witness signature & \\[1cm]
+Witness signature & \\[0.9cm]
 \hline
 Name of witness & \\[0.8cm]
 \hline
-Address & \\[1.4cm]
+Address & \\[1.2cm]
 \hline
 Occupation & \\[0.8cm]
 \hline
@@ -395,23 +410,23 @@ Date & \\[0.8cm]
 \hline
 \end{tabularx}
 
-\vspace{1.5em}
+\vspace{1.2em}
 
 \begin{tabularx}{\textwidth}{|Y|Y|}
 \hline
 \multicolumn{2}{|l|}{\textbf{Executed as a deed by Party 2}} \\
 \hline
-Signature of Party 2 & \\[1.2cm]
+Signature of Party 2 & \\[1.0cm]
 \hline
 Name & \PartyTwo \\[0.4cm]
 \hline
 In the presence of witness: & \\
 \hline
-Witness signature & \\[1cm]
+Witness signature & \\[0.9cm]
 \hline
 Name of witness & \\[0.8cm]
 \hline
-Address & \\[1.4cm]
+Address & \\[1.2cm]
 \hline
 Occupation & \\[0.8cm]
 \hline
@@ -424,9 +439,9 @@ Date & \\[0.8cm]
 
 \subsection*{Property of \PartyOne}
 \begin{itemize}[leftmargin=1.8em]
-    \item Cash: approximately £1,000
-    \item ISA: approximately £5,652
-    \item Ring-Fenced Savings: £20,000 to be held after completion in a separate account
+    \item Cash: approximately \textsterling 1,000
+    \item ISA: approximately \textsterling 5,652
+    \item Ring-Fenced Savings: \textsterling 20,000 to be held after completion in a separate account
     \item Any external inheritances and gifts intended to remain his Separate Property
 \end{itemize}
 
@@ -440,9 +455,9 @@ Date & \\[0.8cm]
 
 \subsection*{Property of \PartyTwo}
 \begin{itemize}[leftmargin=1.8em]
-    \item Cash: approximately £300
-    \item Car: approximately £4,000
-    \item Gold: approximately £500
+    \item Cash: approximately \textsterling 300
+    \item Car: approximately \textsterling 4,000
+    \item Gold: approximately \textsterling 500
     \item Any external inheritances and gifts intended to remain her Separate Property and/or for the children
 \end{itemize}
 
@@ -450,7 +465,7 @@ Date & \\[0.8cm]
 \begin{itemize}[leftmargin=1.8em]
     \item None declared at present
 \end{itemize}
-\newpage
+
 \newpage
 \section*{Schedule 3 --- Certificate of Independent Specialist Legal Adviser for Party 1}
 
@@ -466,7 +481,7 @@ Date & \\[0.8cm]
     \end{enumerate}
 \end{enumerate}
 
-\vspace{1em}
+\vspace{0.8em}
 
 \begin{tabularx}{\textwidth}{|Y|Y|}
 \hline
@@ -495,7 +510,7 @@ Firm and address & \\[1.2cm]
     \end{enumerate}
 \end{enumerate}
 
-\vspace{1em}
+\vspace{0.8em}
 
 \begin{tabularx}{\textwidth}{|Y|Y|}
 \hline
@@ -522,7 +537,7 @@ Firm and address & \\[1.2cm]
     \item I understand that, under the law of England and Wales, the court retains jurisdiction in relation to fairness, needs and the interests of the children, but that this Agreement is intended to be persuasive and to carry substantial weight if properly entered into.
 \end{enumerate}
 
-\vspace{1em}
+\vspace{0.8em}
 
 \begin{tabularx}{\textwidth}{|Y|Y|}
 \hline
@@ -547,7 +562,7 @@ Name & \PartyOne \\[0.6cm]
     \item I understand that, under the law of England and Wales, the court retains jurisdiction in relation to fairness, needs and the interests of the children, but that this Agreement is intended to be persuasive and to carry substantial weight if properly entered into.
 \end{enumerate}
 
-\vspace{1em}
+\vspace{0.8em}
 
 \begin{tabularx}{\textwidth}{|Y|Y|}
 \hline
