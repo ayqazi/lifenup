@@ -1,6 +1,7 @@
 - Never rewrite - make changes surgically and additively. A diff should clearly show what was updated.
 - Language should be timeless and as-if first version, except for diary/worklogs or other appropriate sections
 - Follow agents/LEGAL-STYLING.md when writing or editing legal documents in LaTeX
+- NO subagents
 
 ## Project Layout
 
